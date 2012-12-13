@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$database = "atm";
+$database = "atm-nearby-server";
 $user     = "root";
 $pass = "";		
 	
